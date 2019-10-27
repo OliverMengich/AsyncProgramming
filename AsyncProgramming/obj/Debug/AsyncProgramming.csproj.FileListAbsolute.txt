@@ -1,0 +1,15 @@
+C:\Users\olive\source\repos\AsyncProgramming\AsyncProgramming\bin\Debug\AsyncProgramming.exe.config
+C:\Users\olive\source\repos\AsyncProgramming\AsyncProgramming\bin\Debug\AsyncProgramming.exe
+C:\Users\olive\source\repos\AsyncProgramming\AsyncProgramming\bin\Debug\AsyncProgramming.pdb
+C:\Users\olive\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\AsyncProgramming.csprojAssemblyReference.cache
+C:\Users\olive\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\MainWindow.g.cs
+C:\Users\olive\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\App.g.cs
+C:\Users\olive\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\AsyncProgramming_MarkupCompile.cache
+C:\Users\olive\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\AsyncProgramming_MarkupCompile.lref
+C:\Users\olive\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\MainWindow.baml
+C:\Users\olive\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\AsyncProgramming.g.resources
+C:\Users\olive\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\AsyncProgramming.Properties.Resources.resources
+C:\Users\olive\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\AsyncProgramming.csproj.GenerateResource.cache
+C:\Users\olive\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\AsyncProgramming.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\AsyncProgramming.exe
+C:\Users\olive\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\AsyncProgramming.pdb
